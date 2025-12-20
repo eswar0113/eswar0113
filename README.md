@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#ff9a8c889e8dd189cccdcebf98929e9693d19c9092"><img src="https://img.shields.io/badge/Email-eswar.v321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:eswar.v321@gmail.com"><img src="https://img.shields.io/badge/Email-eswar.v321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/eswar13"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://eswar0113.github.io/MyPortfOLIO/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
@@ -17,27 +17,13 @@
 
 ## 👨‍💻 About Me
 
-```python
-class Eswar:
-    def __init__(self):
-        self.name = "Eswar V"
-        self.role = "AI & IoT Developer"
-        self.education = "B.E. in ECE @ KPR Institute of Engineering and Technology"
-        self.location = "Coimbatore, Tamil Nadu, India"
-        self.current_focus = ["Machine Learning", "IoT Solutions", "Full Stack Development"]
-        self.learning = ["MongoDB", "Advanced AI/ML", "Cloud Technologies"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = Eswar()
-me.say_hi()
-```
+🚀 **AI & IoT Developer** | **B.E. in ECE** @ KPR Institute of Engineering and Technology  
+📍 **Location:** Coimbatore, Tamil Nadu, India
 
 🔭 Currently working on **AI-powered solutions** and **IoT projects**  
 🌱 Currently learning **MongoDB Certification**  
 💡 Interested in **Machine Learning, IoT, and Web Development**  
-📫 Reach me at: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4025333721326e3673727100272d21292c6e232f2d">[email&#160;protected]</a>**  
+📫 Reach me at: **eswar.v321@gmail.com**  
 ⚡ Fun fact: **Solved 120+ algorithmic problems and counting!**
 
 ---
@@ -214,7 +200,7 @@ A machine learning-based system that suggests the best crop based on soil and we
 
 <p align="center">
   <a href="https://linkedin.com/in/eswar13"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="/cdn-cgi/l/email-protection#b0d5c3c7d1c29ec6838281f0d7ddd1d9dc9ed3dfdd"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:eswar.v321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/eswar0113"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://eswar0113.github.io/MyPortfOLIO/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 </p>
@@ -222,4 +208,9 @@ A machine learning-based system that suggests the best crop based on soil and we
 ---
 
 <p align="center">
-  <
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/eswar0113">Eswar V</a> with 💙
+</p>
