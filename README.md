@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:eswar.v321@gmail.com"><img src="https://img.shields.io/badge/Email-eswar.v321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/eswar13"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/eswar13"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://eswar0113.github.io/MyPortfOLIO/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
@@ -17,12 +17,12 @@
 
 ## 👨‍💻 About Me
 
-🚀 **AI & IoT Developer** | **B.E. in ECE** @ KPR Institute of Engineering and Technology  
+🚀 **Tech Enthusiastic** | **B.E., in ECE** @ KPR Institute of Engineering and Technology  
 📍 **Location:** Coimbatore, Tamil Nadu, India
 
-🔭 Currently working on **AI-powered solutions** and **IoT projects**  
+🔭 Currently working on **AI-powered solutions** and **Web Development**  
 🌱 Currently learning **MongoDB Certification**  
-💡 Interested in **Machine Learning, IoT, and Web Development**  
+💡 Interested in **Machine Learning, and Web Development**  
 📫 Reach me at: **eswar.v321@gmail.com**  
 ⚡ Fun fact: **Solved 120+ algorithmic problems and counting!**
 
@@ -194,12 +194,12 @@ A machine learning-based system that suggests the best crop based on soil and we
 ## 💬 Let's Connect!
 
 <p align="center">
-  I'm always excited to collaborate on innovative projects, especially in AI, IoT, and Web Development!<br/>
+  I'm always excited to collaborate on innovative projects, especially in AI,and Web Development!<br/>
   Feel free to reach out for collaborations or just a friendly chat! 😊
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/eswar13"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/eswar13"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:eswar.v321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/eswar0113"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://eswar0113.github.io/MyPortfOLIO/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
