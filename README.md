@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:eswar.v321@gmail.com"><img src="https://img.shields.io/badge/Email-eswar.v321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/eswar13"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#1277616573603c6421202352757f737b7e3c717d7f"><img src="https://img.shields.io/badge/Email-eswar.v321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/eswar13"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://eswar0113.github.io/MyPortfOLIO/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
@@ -17,13 +17,13 @@
 
 ## 👨‍💻 About Me
 
-🚀 **Tech Enthusiastic** | **B.E., in ECE** @ KPR Institute of Engineering and Technology  
+🚀 **AI & IoT Developer** | **B.E. in ECE** @ KPR Institute of Engineering and Technology  
 📍 **Location:** Coimbatore, Tamil Nadu, India
 
-🔭 Currently working on **AI-powered solutions** and **Web Development**  
+🔭 Currently working on **AI-powered solutions** and **IoT projects**  
 🌱 Currently learning **MongoDB Certification**  
-💡 Interested in **Machine Learning, and Web Development**  
-📫 Reach me at: **eswar.v321@gmail.com**  
+💡 Interested in **Machine Learning, IoT, and Web Development**  
+📫 Reach me at: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="fa9f898d9b88d48cc9c8cbba9d979b9396d4999597">[email&#160;protected]</a>**  
 ⚡ Fun fact: **Solved 120+ algorithmic problems and counting!**
 
 ---
@@ -46,11 +46,19 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### Frameworks & Libraries
+### AI/ML Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### Developer Tools
@@ -194,13 +202,13 @@ A machine learning-based system that suggests the best crop based on soil and we
 ## 💬 Let's Connect!
 
 <p align="center">
-  I'm always excited to collaborate on innovative projects, especially in AI,and Web Development!<br/>
+  I'm always excited to collaborate on innovative projects, especially in AI, IoT, and Web Development!<br/>
   Feel free to reach out for collaborations or just a friendly chat! 😊
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/eswar13"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:eswar.v321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/eswar13"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#95f0e6e2f4e7bbe3a6a7a4d5f2f8f4fcf9bbf6faf8"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/eswar0113"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://eswar0113.github.io/MyPortfOLIO/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 </p>
@@ -208,9 +216,4 @@ A machine learning-based system that suggests the best crop based on soil and we
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/eswar0113">Eswar V</a> with 💙
-</p>
+  <
