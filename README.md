@@ -1,4 +1,12 @@
-<h1 align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Eswar+V;AI+%26+Tech+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </h1>
 
@@ -8,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#096c7a7e687b277f3a3b38496e64686065276a6664"><img src="https://img.shields.io/badge/Email-eswar.v321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:eswar.v321@gmail.com"><img src="https://img.shields.io/badge/Email-eswar.v321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/eswar13"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://eswar0113.github.io/MyPortfOLIO/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
@@ -26,7 +34,7 @@
 
 🔭 Currently working on **AI-powered solutions** and **Web Development**  
 🌱 Currently learning **MongoDB Certification**  
-💡 Interested in **Machine Learning, and Web Development**  
+💡 Interested in **Machine Learning and Web Development**  
 📫 Reach me at: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="9ffaece8feedb1e9acadaedff8f2fef6f3b1fcf0f2">[email&#160;protected]</a>**  
 ⚡ Fun fact: **Solved 120+ algorithmic problems and counting!**
 
@@ -138,7 +146,7 @@ Debugging Skills       ███████████████████
 </p>
 
 🥉 **3rd Place** - Aadya Hackathon @ KPRIET  
-🏅 **NPTEL Topper Award** - Scored 82% in Industry 4.0 & Industrial IoT (Oct 2024)  
+🏅 **NPTEL Topper Award** - Scored 82% in Industry 4.0 Course (Oct 2024)  
 💻 **120+ Problems Solved** - Active problem solver on coding platforms  
 👥 **Executive Member** - IETE, KPRIET  
 🐛 **Debugging Contest** - Active participant in Code Debugging Events
@@ -170,7 +178,6 @@ Debugging Skills       ███████████████████
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Infosys-Python_&_Web_Dev-0066CC?style=for-the-badge&logo=infosys&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Industry_4.0_&_IoT-FF6B6B?style=for-the-badge&logo=coursera&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-In_Progress-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
@@ -189,20 +196,15 @@ Debugging Skills       ███████████████████
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><br>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
       <b>🤖 Artificial Intelligence</b><br>
-      <sub>Computer Vision | NLP | Deep Learning</sub>
+      <sub>Computer Vision | NLP | Deep Learning | Machine Learning</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
       <b>🌐 Full Stack Development</b><br>
-      <sub>Frontend | Backend | Database Design</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
-      <b>⚡ IoT & Embedded Systems</b><br>
-      <sub>ESP32 | Sensors | Smart Solutions</sub>
+      <sub>Frontend | Backend | Database Design | API Integration</sub>
     </td>
   </tr>
 </table>
@@ -252,12 +254,6 @@ Debugging Skills       ███████████████████
 - Personalized workout recommendations
 - ML-based movement analysis
 
-### 🅿️ Smart Parking Solution
-**IoT-based real-time parking system**
-- ESP32 sensor integration
-- Live slot availability tracking
-- 40% reduction in search time
-
 ### 🤖 AI Resume Screening
 **Intelligent recruitment automation**
 - NLP-based candidate matching
@@ -290,7 +286,7 @@ Debugging Skills       ███████████████████
 
 - [ ] Complete MongoDB Certification
 - [ ] Contribute to open-source AI/ML projects
-- [ ] Build more IoT-based smart solutions
+- [ ] Build more AI-powered web applications
 - [ ] Expand web development portfolio
 - [ ] Reach 200+ DSA problems solved
 - [ ] Publish research papers in AI/ML domain
@@ -301,25 +297,20 @@ Debugging Skills       ███████████████████
 
 <table align="center">
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="250">
       <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
       <br><b>AI & ML Expertise</b>
       <br>Building intelligent systems that learn and adapt
     </td>
-    <td align="center" width="200">
+    <td align="center" width="250">
       <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
       <br><b>Web Development</b>
       <br>Creating responsive and dynamic web applications
     </td>
-    <td align="center" width="200">
+    <td align="center" width="250">
       <img src="https://user-images.githubusercontent.com/74038190/212284140-5c8c621e-9b2a-4d42-bf0e-70e50c394ee1.gif" width="100">
       <br><b>Problem Solving</b>
       <br>Tackling complex challenges with innovative solutions
-    </td>
-    <td align="center" width="200">
-      <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100">
-      <br><b>IoT Innovation</b>
-      <br>Connecting devices for smarter solutions
     </td>
   </tr>
 </table>
@@ -348,3 +339,6 @@ Debugging Skills       ███████████████████
 
 <p align="center">
   <
+    
+</body>
+</html>
