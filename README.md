@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Eswar+V;AI+%26+Tech+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </h1>
@@ -17,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:eswar.v321@gmail.com"><img src="https://img.shields.io/badge/Email-eswar.v321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#096c7a7e687b277f3a3b38496e64686065276a6664"><img src="https://img.shields.io/badge/Email-eswar.v321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/eswar13"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://eswar0113.github.io/MyPortfOLIO/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
@@ -36,7 +27,7 @@
 🔭 Currently working on **AI-powered solutions** and **Web Development**  
 🌱 Currently learning **MongoDB Certification**  
 💡 Interested in **Machine Learning, and Web Development**  
-📫 Reach me at: **eswar.v321@gmail.com**  
+📫 Reach me at: **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="9ffaece8feedb1e9acadaedff8f2fef6f3b1fcf0f2">[email&#160;protected]</a>**  
 ⚡ Fun fact: **Solved 120+ algorithmic problems and counting!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -194,11 +185,92 @@ Debugging Skills       ███████████████████
 
 ---
 
-## 🐍 Contribution Snake
+## 💼 Domain Expertise
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><br>
+      <b>🤖 Artificial Intelligence</b><br>
+      <sub>Computer Vision | NLP | Deep Learning</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+      <b>🌐 Full Stack Development</b><br>
+      <sub>Frontend | Backend | Database Design</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"><br>
+      <b>⚡ IoT & Embedded Systems</b><br>
+      <sub>ESP32 | Sensors | Smart Solutions</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Learning Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eswar0113&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/python.png" width="48"><br>
+      <b>Python Mastery</b><br>
+      <sub>Advanced level proficiency</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/javascript.png" width="48"><br>
+      <b>Web Technologies</b><br>
+      <sub>HTML, CSS, JS expertise</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/tensorflow.png" width="48"><br>
+      <b>ML Frameworks</b><br>
+      <sub>TensorFlow & scikit-learn</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="48"><br>
+      <b>Java Programming</b><br>
+      <sub>Object-oriented design</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 Featured Highlights
+
+<div align="center">
+
+### 🏋️ AI Fitness Trainer | KEMTAI
+**Computer Vision-powered fitness application**
+- Real-time pose detection & form correction
+- Personalized workout recommendations
+- ML-based movement analysis
+
+### 🅿️ Smart Parking Solution
+**IoT-based real-time parking system**
+- ESP32 sensor integration
+- Live slot availability tracking
+- 40% reduction in search time
+
+### 🤖 AI Resume Screening
+**Intelligent recruitment automation**
+- NLP-based candidate matching
+- Automated ranking algorithms
+- Enhanced hiring efficiency
+
+### 🌾 Crop Recommendation System
+**ML-driven agricultural insights**
+- Soil & weather data analysis
+- Firebase cloud integration
+- Optimized crop selection
+
+</div>
 
 ---
 
@@ -267,7 +339,7 @@ Debugging Skills       ███████████████████
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eswar13"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:eswar.v321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#4520363224376b33767774052228242c296b262a28"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/eswar0113"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://eswar0113.github.io/MyPortfOLIO/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 </p>
@@ -275,12 +347,4 @@ Debugging Skills       ███████████████████
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/eswar0113">Eswar V</a> with 💙
-</p>
-
-</body>
-</html>
+  <
